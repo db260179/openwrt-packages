@@ -39,7 +39,6 @@ interfaces, connection tracking and an easy to manage traffic ruleset.
 endef
 
 define Package/mwan3/conffiles
-/etc/config/mwan3
 /etc/mwan3.user
 endef
 
