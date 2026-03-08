@@ -3,12 +3,12 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=usteer-ng
-PKG_SOURCE_DATE:=2026-02-26
-PKG_SOURCE_VERSION:=ee3a2fa0795a2e3c224be6b625e782f4fa136867
+PKG_SOURCE_DATE:=2026-03-08
+PKG_SOURCE_VERSION:=eb5d459a98b00adc1c5abe3a2317953b7314b198
 PKG_RELEASE:=1
 
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL=https://github.com/NilsRo/usteer-ng.git
+PKG_SOURCE_URL=https://github.com/db260179/usteer-ng.git
 PKG_MIRROR_HASH:=skip
 
 PKG_MAINTAINER:=Nils Hendrik Rottgardt <n.rottgardt@gmail.com>
